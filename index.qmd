@@ -1,0 +1,15 @@
+---
+title: "章靖的个人网站"
+description: "华中农业大学植物营养学的学生，热爱长跑"
+---
+
+<div class="hero">
+  <h1>章靖</h1>
+  <p class="subtitle">华中农业大学植物营养学学生 • 热爱长跑</p>
+  <p class="lead">欢迎来到我的个人网站。这是一个现代风格的简约站点，展示我的背景、兴趣与联系方式。</p>
+</div>
+
+<div class="page-section">
+  <h2>欢迎浏览</h2>
+  <p>请使用顶部导航查看 <strong>关于我</strong> 页面，了解更多信息。</p>
+</div>
